@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Software Engineer",
+        "organisation": "Google",
+        "startDate": "Sept. 2022",
+        "endDate": "PresenL",
+        "experience": ["Worked on Google Maps", "Reduced load time"],
+        "imageSrc": "history/Google.png"
+    },
+    {
+        "role": "UI Designer",
+        "organisation": "Samsung",
+        "startDate": "Apr. 2021",
+        "endDate": "Dec. 2021",
+        "experience": ["Worked on Google Maps", "Reduced load time"],
+        "imageSrc": "history/Samsung.png"
+    },
+    {
+        "role": "SWF Intern",
+        "organisation": "Intel",
+        "startDate": "Dec. 2020",
+        "endDate": "Feb. 2021",
+        "experience": ["Worked on component library", "Helped create UI components"],
+        "imageSrc": "history/Intel.png"
+    }
+]
