@@ -1,11 +1,12 @@
 :root {
     /* Colour */
     --color-text: #dedcdc;
-    --color-primary: #576cbc;
+    --color-primary: #57707a;
     --color-secondary: #19376d;
     --color-dark: #0b2447;
     --color-bg: #191d23;
     /*linear-gradient(#191D23, #57707A, #75919C, #989DAA, #C5BAC4, #DEDCDC)
+    
     /* Fonts */
-    --fonts-robot: "Roboto";
+    --fonts-roboto: "Roboto";
 }
