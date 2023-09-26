@@ -9,9 +9,10 @@ export const Experience = () => {
         <h2>Experience</h2>
         <div>
             <div>{
-                skills.map((skills, id) => {
+                skills.map((skill, id) => {
                     return <div key={id}>
-                        <div><img src={getImageUrl(skills.imageSrc)} alt={skills.title} /></div>
+                    <div>
+                        <img src={getImageUrl(skill.imageSrc)} alt={skill.title} /></div>
                     </div>
                 })
                 }</div>
